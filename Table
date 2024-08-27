@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+  <head>
+    <title> table</title>
+    </head>
+  <body>
+    <table border="3" align="center">
+      <tr align="center">
+        <th >Sr no.</th>
+        <th>Name</th>
+        <th>midd. name</th>
+        <th>Surname</th>
+      </tr>
+      <tr align="center">
+        <td>1</td>
+        <td>Sushil</td>
+        <td>Bhikhu</td>
+        <td>Nirmal</td>
+      </tr>
+      <tr align="center">
+        <td>2</td>
+        <td>Sunila</td>
+        <td>Bhikhu</td>
+        <td>Nirmal</td>
+      </tr>
+      </table>
+  </body>
+</html>
